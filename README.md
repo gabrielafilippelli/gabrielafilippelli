@@ -5,6 +5,7 @@ I’m an aspiring **Data Scientist** with experience in:
 - Power BI dashboards
 - Machine learning models
 
-🔭 Currently working as Financial Operations Associate at BNY
-💼 Exploring fraud detection & forecasting projects
-🚀 Check out my projects below 👇
+- 🔭 Currently working as Financial Operations Associate at BNY
+- 💼 Exploring fraud detection & forecasting projects
+
+- 🚀 Check out my projects below 👇
