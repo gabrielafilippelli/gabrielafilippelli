@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Gabriela Filippelli.
-  
-- 💼 I'm an operations analyst based in Orlando, currently working in the banking / financial services industry.
-  
-- 👀 I’m interested in data analysis and combining data driven processes with financial analysis.
+# Hi, I’m Gabriela 👋
+I’m an aspiring **Data Scientist** with experience in:
+- Python & R
+- SQL & data visualization
+- Power BI dashboards
+- Machine learning models
 
-- 🌱 I’m currently learning more about robotic process automation.
-
-- 📫 How to reach me: Send me a message on LinkedIn!
+🔭 Currently working as Financial Operations Associate at BNY
+💼 Exploring fraud detection & forecasting projects
+🚀 Check out my projects below 👇
