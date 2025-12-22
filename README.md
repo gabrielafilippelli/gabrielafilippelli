@@ -24,3 +24,10 @@ I’m an **Operations & Analytics professional** transitioning into **Data Scien
 - Machine learning (classification, regression)
 - Time series & forecasting
 - Dashboarding & data storytelling
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielafilippelli)  
+
+Thanks for stopping by — feel free to explore my repositories!
