@@ -2,18 +2,17 @@
 
 ---
 ## 🔍 About Me
-- 📈 Background in **financial operations & reporting**
-- 🧠 Interested in **analytics, and applied machine learning**
+- 📈 Background in **financial operations**
+- 🧠 Interested in **data analytics, and applied machine learning**
 - 🚀 Actively building a **data portfolio** using Python, SQL, and BI tools
 
 ---
 ## Technical Skills
 **Languages & Tools**
 - Python (pandas, NumPy, matplotlib, seaborn)
-- SQL
 - R (tidyverse, ggplot2)
 - Power BI, Tableau
-- Excel, Git, GitHub
+- Excel, GitHub
 
 **Analytics & Data Science**
 - Exploratory Data Analysis (EDA)
