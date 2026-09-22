@@ -2,9 +2,9 @@
 
 ---
 ## 🔍 About Me
-- 📈 Background in **transaction analytics, reporting, dashboards, and process improvement**
-- 🧠 Interested in **fraud detection, financial analytics, and applied machine learning**
-- 🚀 Actively building a **data science portfolio** using Python, SQL, and BI tools
+- 📈 Background in **financial operations & reporting**
+- 🧠 Interested in **analytics, and applied machine learning**
+- 🚀 Actively building a **data portfolio** using Python, SQL, and BI tools
 
 ---
 ## Technical Skills
